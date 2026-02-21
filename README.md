@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Charan
+# 👋 Hi, I'm Aditya
 
 🚀 AI & Full Stack Developer  
 🏗 Building Scalable Web Products  
